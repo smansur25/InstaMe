@@ -1,0 +1,6 @@
+framework module Pods_InstaMe___ {
+  umbrella header "Pods-InstaMe :)-umbrella.h"
+
+  export *
+  module * { export * }
+}
